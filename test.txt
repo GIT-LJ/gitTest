@@ -6,8 +6,13 @@ ddddd
 eeeee
 
 Updated upstream
+Updated upstream
 jjjjj
 kkkkk second-stash-edit
+
+fffff
+ggggg edit-stash
+Stashed changes
 
 fffff
 ggggg edit-stash
