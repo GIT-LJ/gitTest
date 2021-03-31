@@ -5,5 +5,10 @@ cccc  edit-clone
 ddddd
 eeeee
 
+Updated upstream
 jjjjj
 kkkkk second-stash-edit
+
+fffff
+ggggg edit-stash
+Stashed changes
